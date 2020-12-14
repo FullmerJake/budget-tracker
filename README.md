@@ -26,7 +26,7 @@
   There is always a need to help! I think the next thing I want to work on including is a button that lets to clear everything and start over. Another things that would be an intersting addition would be to create a budget by day function, where you can tab through each day. 
 
   ## Tests
-  (/readme-image.png)
+  !(/readme-image.png)
   
   ## Contact
   Learn more about the owner of this project by visiting their Github Profile: <a href=https://github.com/FullmerJake>Jake Fullmer</a>
