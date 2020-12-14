@@ -6,7 +6,8 @@ const FILES_TO_CACHE = [
     "./index.html",
     "./css/styles.css",
     "./js/idb.js",
-    "./js/index.js"
+    "./js/index.js",
+    "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
   ];
 
 // install event
